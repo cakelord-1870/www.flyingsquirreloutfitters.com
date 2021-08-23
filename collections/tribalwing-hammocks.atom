@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flyingsquirreloutfitters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flyingsquirreloutfitters.com/collections/tribalwing-hammocks.atom"/>
+  <title>Flying Squirrel Outfitters</title>
+  <updated>2021-06-03T02:01:37-04:00</updated>
+  <author>
+    <name>Flying Squirrel Outfitters</name>
+  </author>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/3596549259369</id>
+    <published>2021-06-03T02:01:37-04:00</published>
+    <updated>2021-06-03T02:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/tribalwing"/>
+    <title>TribalWing Hammock™ &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-tribalwing-hammock-straps-28547132784745.jpg?v=1627984347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            59.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>UNIQUE &amp; STYLISH TRIBAL Boho Northern Thailand Fabric base layer, silky parachute nylon lining (2 layers)</li>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground </li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges, no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<meta charset="utf-8">
+<p><span>This one of a kind hammock design is unlike any on the market. We've carefully hand selected beautifully woven fabric directly from local markets in Northern Thailand. The goal here is to create something inspired by "Thai style" because hey, Thailand is where we manufacture all our products by hand. Our advantage for making a hammock that is truly unique is through our vast network of fabric sources only found here. You won't find anything like the TribalWing, anywhere!</span></p>
+<p><span>This hammock is for the conscious bohemian trendsetter looking for something different. I hope you're up for conversation because this hammock will undoubtably draw people in. There is a product story to share and we want you to tell it, all from the comfort of your hammock. Hey, it's not showing off - it's self expression.</span></p>
+<p>Each TribalWing is meticulously handcrafted in the very home of the creator, priding ourselves on superior quality using cottage construction techniques and avoiding mass factory production. This hammock is nipped and tucked to perfection, and packs up small into its carrying pouch with a handle.</p>
+<p>The TribalWing features the same adjustable pouch functionality as it's siblings, the DoubleWing and UltraWing. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright in.</p>
+<p>Each hammock always comes with a set of tree friendly webbing straps - we won't sell you a hammock without a way to hang it!<br></p>
+<table>
+<tbody>
+<tr>
+<td>Weight</td>
+<td>24oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 8.2ft x 5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Tribal Cotton from local Thailand Markets, 70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/3596549259369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.94</s:price>
+      <s:sku>T1</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

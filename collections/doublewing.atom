@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flyingsquirreloutfitters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flyingsquirreloutfitters.com/collections/doublewing.atom"/>
+  <title>Flying Squirrel Outfitters</title>
+  <updated>2021-06-03T02:01:26-04:00</updated>
+  <author>
+    <name>Flying Squirrel Outfitters</name>
+  </author>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744207253609</id>
+    <published>2021-06-03T02:01:26-04:00</published>
+    <updated>2021-06-03T02:01:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/ko-wai-hammock-straps"/>
+    <title>Ko Wai Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-ko-wai-hammock-straps-28546412249193.jpg?v=1627993720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744207253609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-031</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744108818537</id>
+    <published>2021-06-03T02:01:22-04:00</published>
+    <updated>2021-06-03T02:01:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/copy-of-lak-hammock-straps"/>
+    <title>Hong Son Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-hong-son-hammock-straps-2516191871081.jpg?v=1617284392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744108818537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-032</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744107180137</id>
+    <published>2021-06-03T02:01:19-04:00</published>
+    <updated>2021-06-03T02:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/similan-hammock-straps"/>
+    <title>Similan Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-similan-hammock-straps-2516151435369.jpg?v=1617289552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744107180137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-027</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744104624233</id>
+    <published>2021-06-03T02:01:15-04:00</published>
+    <updated>2021-06-03T02:01:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/copy-of-umong-hammock-straps"/>
+    <title>Rampoeng Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-rampoeng-hammock-straps-28546717876329.jpg?v=1627990842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744104624233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-029</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744104394857</id>
+    <published>2021-06-03T02:01:13-04:00</published>
+    <updated>2021-06-03T02:01:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/copy-of-phra-singh-hammock-straps"/>
+    <title>Umong Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-umong-hammock-straps-2516073152617.jpg?v=1617286792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744104394857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-024</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/744103739497</id>
+    <published>2021-06-03T02:01:12-04:00</published>
+    <updated>2021-06-03T02:01:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/copy-of-adaman-hammock-straps"/>
+    <title>Phra Singh Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-phra-singh-hammock-straps-2516057391209.jpg?v=1617287360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DoubleWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/744103739497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-028</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8854455814</id>
+    <published>2021-06-03T02:00:44-04:00</published>
+    <updated>2021-06-03T02:00:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/doublewing-maroon-blue"/>
+    <title>Sairee Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-sairee-hammock-straps-20054245638.jpg?v=1617268310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>1st EVER FULLY ADJUSTABLE HAMMOCK - Adjust your position with ease</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM NO SNAG CARABINERS: Smooth edges so no snags or material damage </li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>This hammock is where it all started. After nearly a year of sourcing raw materials, product development, and rigorous testing we gave life to our flagship product, The DoubleWing. Each DoubleWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>Designed for ultra-lightweight travel and versatility of use, we have brought you the first ever fully adjustable travel hammock. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright, reducing the cocoon effect and increasing the visibility of the world around you. As a proper double sized hammock, The DoubleWing is designed to be shared with a friend or a loved one. Each hammock comes with a set of tree-friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>22oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>450lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 9.8ft x 6.5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>camping hammock</s:tag>
+    <s:tag>DoubleWing</s:tag>
+    <s:tag>hammock</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8854455814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.84</s:price>
+      <s:sku>D-020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

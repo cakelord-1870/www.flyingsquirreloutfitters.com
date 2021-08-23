@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flyingsquirreloutfitters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flyingsquirreloutfitters.com/collections/ultrawing.atom"/>
+  <title>Flying Squirrel Outfitters</title>
+  <updated>2021-06-03T02:01:05-04:00</updated>
+  <author>
+    <name>Flying Squirrel Outfitters</name>
+  </author>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8854764422</id>
+    <published>2021-06-03T02:01:05-04:00</published>
+    <updated>2021-06-03T02:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/ultrawing-maroon"/>
+    <title>Rawai Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-rawai-hammock-straps-20056711110.jpg?v=1617289192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            54.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>INSANELY LIGHTWEIGHT: a featherweight champion at 11oz</li>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM S HOOKS: Smooth edges so no snags or material damage</li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>The UltraWing was designed to trim the fat! We put this hammock to work, shredding ounces of extra weight to bring you our premiere ultra lightweight one person hammock. If you’re a weight conscious hammocker then our 11oz UltraWing design is specifically for you! Each UltraWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>The UltraWing features the same adjustable pouch functionality as its older brother, the DoubleWing. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright in. Each hammock always comes with a set of tree friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>11oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>350lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 8.2ft x 5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8854764422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.84</s:price>
+      <s:sku>U-006</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8854756422</id>
+    <published>2021-06-03T02:01:03-04:00</published>
+    <updated>2021-06-03T02:01:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/ultrawing-aqua"/>
+    <title>Tonsai Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-tonsai-hammock-straps-20056650182.jpg?v=1617282440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            54.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>INSANELY LIGHTWEIGHT: a featherweight champion at 11oz</li>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM S HOOKS: Smooth edges so no snags or material damage</li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>The UltraWing was designed to trim the fat! We put this hammock to work, shredding ounces of extra weight to bring you our premiere ultra lightweight one person hammock. If you’re a weight conscious hammocker then our 11oz UltraWing design is specifically for you! Each UltraWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>The UltraWing features the same adjustable pouch functionality as its older brother, the DoubleWing. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright in. Each hammock always comes with a set of tree friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>11oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>350lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 8.2ft x 5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8854756422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.84</s:price>
+      <s:sku>U-005</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8854750726</id>
+    <published>2021-06-03T02:01:01-04:00</published>
+    <updated>2021-06-03T02:01:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/ultrawing-gold"/>
+    <title>Suthep Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-suthep-hammock-straps-20056609030.jpg?v=1617288113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            54.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>INSANELY LIGHTWEIGHT: a featherweight champion at 11oz</li>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM S HOOKS: Smooth edges so no snags or material damage</li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>The UltraWing was designed to trim the fat! We put this hammock to work, shredding ounces of extra weight to bring you our premiere ultra lightweight one person hammock. If you’re a weight conscious hammocker then our 11oz UltraWing design is specifically for you! Each UltraWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>The UltraWing features the same adjustable pouch functionality as its older brother, the DoubleWing. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright in. Each hammock always comes with a set of tree friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>11oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>350lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 8.2ft x 5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8854750726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.84</s:price>
+      <s:sku>U-004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8854738374</id>
+    <published>2021-06-03T02:00:58-04:00</published>
+    <updated>2021-06-03T02:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/ultrawing-green"/>
+    <title>Pui Hammock &amp; Straps</title>
+    <s:type>hammock</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-pui-hammock-straps-20056482566.jpg?v=1617288713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock<br>
+        <strong>Price: </strong>
+            54.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>INSANELY LIGHTWEIGHT: a featherweight champion at 11oz</li>
+<li>100% HANDMADE - Unparalleled quality, no mass factory production</li>
+<li>DOUBLE BARREL POUCH DESIGN: The fastest set up, never letting it touch the ground</li>
+<li>PREMIUM S HOOKS: Smooth edges so no snags or material damage</li>
+<li>CARRYING STRAP &amp; GEAR LOOP: Extremely portable, easily attach to your pack</li>
+<li>WEBBING STRAPS: 1" thick set of adjustable webbing straps - kinder to trees than rope</li>
+</ul>
+<!-- split dat shit -->
+<p>The UltraWing was designed to trim the fat! We put this hammock to work, shredding ounces of extra weight to bring you our premiere ultra lightweight one person hammock. If you’re a weight conscious hammocker then our 11oz UltraWing design is specifically for you! Each UltraWing is meticulously handcrafted in the very homes of the creators, priding ourselves on superior quality using cottage construction techniques, and avoiding mass factory production.<br><br>The UltraWing features the same adjustable pouch functionality as its older brother, the DoubleWing. The adjustable pouch slides along the body of the hammock to create fabric tension, changing the size and shape of the hammock, giving you different ways to sway. Create a hanging chair to sit more upright in. Each hammock always comes with a set of tree friendly webbing straps - we won't sell you a hammock without a way to hang it!</p>
+<!-- split dat shit -->
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>11oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>350lbs</td>
+</tr>
+<tr>
+<td>Unfolded Dimensions</td>
+<td>(L x W) 8.2ft x 5ft</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>70D High Tenacity Nylon Taffeta</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>UltraWing</s:tag>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8854738374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.84</s:price>
+      <s:sku>U-001</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.flyingsquirreloutfitters.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.flyingsquirreloutfitters.com/collections/webbing-straps.atom"/>
+  <title>Flying Squirrel Outfitters</title>
+  <updated>2020-07-22T05:07:33-04:00</updated>
+  <author>
+    <name>Flying Squirrel Outfitters</name>
+  </author>
+  <entry>
+    <id>https://www.flyingsquirreloutfitters.com/products/8728482374</id>
+    <published>2020-07-22T05:07:33-04:00</published>
+    <updated>2020-07-22T05:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.flyingsquirreloutfitters.com/products/straps"/>
+    <title>Webbing Straps</title>
+    <s:type>hammock accessories</s:type>
+    <s:vendor>Flying Squirrel Outfitters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1323/9767/products/flying-squirrel-outfitters-hammock-accessories-webbing-straps-2036855767081.jpg?v=1617286948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flying Squirrel Outfitters<br>
+        <strong>Type: </strong>hammock accessories<br>
+        <strong>Price: </strong>
+            23.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>ADJUSTABLE WEBBING - Adjust your hanging position with ease</li>
+<li>NO KNOTS: Easiest set up without tying any knots</li>
+<li>EXTRA LONG: Total of 24ft of webbing per set </li>
+<li>16 ADJUSTMENT LOOPS: More options to adjust your hammock</li>
+</ul>
+<p><!-- split dat shit --></p>
+<p>We love trees, and you should too!</p>
+<p>Hanging hammocks using rope can be damaging and disrupting for many species of tress. Our 1 inch thick set of webbing straps are much friendlier to tree bark, but plenty strong to keep you floating in ecstasy all night!   </p>
+<p>Our straps weigh a scant 7 ounces, yet boasts 16 combined adjustment points, perfect for taking on any challenging anchor point around. When the weight of the world becomes too much and you need to get off your feet, trust you're secure hanging your hammock with FSO webbing straps.</p>
+<p>All hammocks come with a set of FSO webbing straps - Always!</p>
+<p><!-- split dat shit --></p>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Weight</td>
+<td>7oz</td>
+</tr>
+<tr>
+<td>Weight Capacity</td>
+<td>400lbs per strap</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>12ft &amp; 8 adjustment loops</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>1" Polypro Webbing</td>
+</tr>
+<tr>
+<td>Best Use</td>
+<td>Camping, Backpacking, and anytime you just need to get off your feet</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.flyingsquirreloutfitters.com/products/8728482374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.94</s:price>
+      <s:sku>S-001</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+</feed>
